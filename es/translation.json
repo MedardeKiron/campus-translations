@@ -19,7 +19,7 @@
       "subtitle": "Cursos con el mayor número de estudiantes"
     },
     "skillBoosterPrograms": "Skill Booster Programs",
-    "courses": "Courses"
+    "courses": "Cursos"
   },
   "success": {
     "introTitle": "¡Su historia de éxito!",
@@ -149,7 +149,7 @@
     "feedbackDislike": "¿Qué es lo que no le gustó?",
     "feedbackNext": "Siguiente",
     "feedbackLoading": "Cargando lección",
-    "enrollCourseLimitText": "Sorry, you can enroll in up to {{0}} courses"
+    "enrollCourseLimitText": "Lo sentimos, solamente puede inscribirse en {{0}} courses máximo"
   },
   "unitCard": {
     "liveUnit": "Unidad en vivo",
@@ -170,11 +170,11 @@
     "body": "Puede tomar 2-3 días antes de que su progreso en Coursera aparezca en Kiron Campus. Esto no significa que su progreso no se actualice. ¡Por favor vuelva pronto para ver su progreso actualizado!"
   },
   "pendingApplicationStatus": {
-    "accountStatus": "Account status: <1>Pending approval</1>",
-    "pendingExplanation": "The screening process usually takes around 2 weeks.",
-    "infoMessage": "You need approval to enroll in this program"
+    "accountStatus": "Estado de la cuenta: <1>Esperando aprobación</1>",
+    "pendingExplanation": "El proceso de filtrado normalmente lleva alrededor de 2 semanas.",
+    "infoMessage": "Necesita ser aprobado para inscribirse en este programa"
   },
   "unitPage": {
-    "completionInfo": "Your instructor will mark this course as completed after review"
+    "completionInfo": "Su instructor marcará este curso como completado tras revisarlo"
   }
 }
